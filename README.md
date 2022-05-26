@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [3D Background Boxes GitHub Solution](https://github.com/MaryAngelique/3d-background-boxes)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
@@ -41,12 +41,9 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - VanillaJS
-- Asynchronous JavaScript
-- API Request
-- CSS custom properties
+- CSS Custom Properties
 - CSS Flexbox properties
 - CSS Grid properties
-- Media Queries
 
 ## Author
 
