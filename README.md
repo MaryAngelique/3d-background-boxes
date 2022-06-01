@@ -33,8 +33,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [3D Background Boxes GitHub Solution](https://github.com/MaryAngelique/3d-background-boxes)
-- Live Site URL: [ Website](Deployed website)
-
+- Live Site URL: [3D Background Boxes Website
+](https://3d-background-boxes.vercel.app/)
 ## My process
 
 ### Built with
